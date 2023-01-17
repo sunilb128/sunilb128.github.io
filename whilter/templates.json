@@ -1,0 +1,98 @@
+[
+  {
+    "id": "173e9070-8cd8-11ed-a1eb-0242ac120001",
+    "name": "Jeweller Ad Template",
+    "tags": [
+      "Pasta",
+      "Alfredo",
+      "Food"
+    ],
+    "aspectRatio": "16:10",
+    "orientation": "landscape",
+    "referenceSourceType": "video",
+    "referenceSourceUrl": "https://cdn.whilter.com/whilter-assets/173e9070-8cd8-11ed-a1eb-0242ac120002/20220102/173e9070-8cd8-11ed-a1eb-0242ac120123.mp4",
+    "status": "In Progress",
+    "createdBy": "233e9070-8cd8-11ed-a1eb-0242ac120002",
+    "createdDateTime": "1672909705"
+  },
+  {
+    "id": "173e9070-8cd8-11ed-a1eb-0242ac120002",
+    "name": "Restaurant Ad Template",
+    "tags": [
+      "Pasta",
+      "Alfredo",
+      "Food"
+    ],
+    "aspectRatio": "9:16",
+    "orientation": "vertical",
+    "referenceSourceType": "video",
+    "referenceSourceUrl": "https://cdn.whilter.com/whilter-assets/173e9070-8cd8-11ed-a1eb-0242ac120002/20220102/173e9070-8cd8-11ed-a1eb-0242ac120123.mp4",
+    "status": "Completed",
+    "createdBy": "233e9070-8cd8-11ed-a1eb-0242ac120002",
+    "createdDateTime": "1672909705"
+  },
+  {
+    "id": "173e9070-8cd8-11ed-a1eb-0242ac120003",
+    "name": "Landscape Ad Template",
+    "tags": [
+      "Pasta",
+      "Alfredo",
+      "Food"
+    ],
+    "aspectRatio": "16:10",
+    "orientation": "landscape",
+    "referenceSourceType": "video",
+    "referenceSourceUrl": "https://cdn.whilter.com/whilter-assets/173e9070-8cd8-11ed-a1eb-0242ac120002/20220102/173e9070-8cd8-11ed-a1eb-0242ac120123.mp4",
+    "status": "In Progress",
+    "createdBy": "233e9070-8cd8-11ed-a1eb-0242ac120002",
+    "createdDateTime": "1672909705"
+  },
+  {
+    "id": "173e9070-8cd8-11ed-a1eb-0242ac120004",
+    "name": "Portrait Ad Template",
+    "tags": [
+      "Pasta",
+      "Alfredo",
+      "Food"
+    ],
+    "aspectRatio": "9:16",
+    "orientation": "vertical",
+    "referenceSourceType": "video",
+    "referenceSourceUrl": "https://cdn.whilter.com/whilter-assets/173e9070-8cd8-11ed-a1eb-0242ac120002/20220102/173e9070-8cd8-11ed-a1eb-0242ac120123.mp4",
+    "status": "Completed",
+    "createdBy": "233e9070-8cd8-11ed-a1eb-0242ac120002",
+    "createdDateTime": "1672909705"
+  },
+  {
+    "id": "173e9070-8cd8-11ed-a1eb-0242ac120005",
+    "name": "Reel Ad Template",
+    "tags": [
+      "Pasta",
+      "Alfredo",
+      "Food"
+    ],
+    "aspectRatio": "16:10",
+    "orientation": "landscape",
+    "referenceSourceType": "video",
+    "referenceSourceUrl": "https://cdn.whilter.com/whilter-assets/173e9070-8cd8-11ed-a1eb-0242ac120002/20220102/173e9070-8cd8-11ed-a1eb-0242ac120123.mp4",
+    "status": "In Progress",
+    "createdBy": "233e9070-8cd8-11ed-a1eb-0242ac120002",
+    "createdDateTime": "1672909705"
+  },
+  {
+    "id": "173e9070-8cd8-11ed-a1eb-0242ac120006",
+    "name": "Story Ad Template",
+    "tags": [
+      "Pasta",
+      "Alfredo",
+      "Food"
+    ],
+    "aspectRatio": "9:16",
+    "orientation": "vertical",
+    "referenceSourceType": "video",
+    "referenceSourceUrl": "https://cdn.whilter.com/whilter-assets/173e9070-8cd8-11ed-a1eb-0242ac120002/20220102/173e9070-8cd8-11ed-a1eb-0242ac120123.mp4",
+    "status": "Completed",
+    "createdBy": "233e9070-8cd8-11ed-a1eb-0242ac120002",
+    "createdDateTime": "1672909705"
+  }
+]
